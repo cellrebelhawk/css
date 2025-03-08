@@ -10,4 +10,5 @@ Rails.application.routes.draw do
 
   # Define the root route
   get("/", { :controller => "posts", :action => "index" })
+
 end

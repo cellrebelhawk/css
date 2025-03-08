@@ -1,0 +1,19 @@
+body{
+  background-color:grey;
+} 
+
+h1 {
+  color: blueviolet;
+  font-family: 'Trebuchet MS';
+  font-weight: 600;
+}
+
+p {
+  font-family: "Trebuchet MS";
+  color: greenyellow;
+  font-size: 20px;
+}
+
+.smaller{
+  font-size: 12px;
+}
